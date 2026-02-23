@@ -115,6 +115,12 @@ The website is structured to:
 
 ---
 
+## 📄 License
+
+MIT License --- Free to use and adapt with attribution.
+
+---
+
 ## 👨‍💻 Author
 
 Designed & Developed by Mostafa Al-Rouby  
